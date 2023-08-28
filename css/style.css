@@ -349,6 +349,21 @@ a:focus {
   color: #ffffff;
 }
 
+.gallary-img-box{
+height:500px;
+}
+.gallary-img-box img{
+object-fit:cover;
+}
+.carousel-img-box {
+	width:100%;
+}
+.gallary-boxes-home{
+	height :350px;
+}
+.gallary-boxes-home img{
+	object-fit:cover;
+}
 .slider_section .img-box img {
   min-width: 100%;
   min-height: 100%;
